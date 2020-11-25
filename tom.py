@@ -1,6 +1,0 @@
-print("Tom work hadr..........")
-print("Tom work hadr..........")
-print("Tom work hadr..........")
-print("Tom work hadr..........")
-print("Tom work hadr..........")
-print("Tom work hadr..........")
